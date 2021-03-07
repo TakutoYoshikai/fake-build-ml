@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+const fakeInstall = require("../index");
+fakeInstall();
+
